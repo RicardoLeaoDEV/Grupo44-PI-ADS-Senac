@@ -89,10 +89,10 @@ notebook/
   analise_dados_preco.ipynb
 
 dashboard/
-  projeto_pi-final.pbix
+  PI_Impacto_Preco_Combustiveis_2026.pbix
 
 images/
-  dashboard1.png
+  dashboard10.png
 
 ## 📊 Etapa 2 – Análise e Visualização de Dados
 
@@ -136,6 +136,8 @@ Nesta etapa, os dados tratados foram utilizados para a construção de um dashbo
 O dashboard foi desenvolvido no Power BI e apresenta uma visão integrada dos dados analisados.
 
 ## 🖼️ Preview do Dashboard
+
+👉 [Acesse o Dashboard Interativo aqui](https://grupo44-pi-ads-senac-es6gvjnuzxfbdjsedl2ygi.streamlit.app)
 
 ![Dashboard](images/dashboard10.png)
 
