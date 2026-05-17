@@ -120,18 +120,12 @@ O dashboard foi desenvolvido no Power BI e apresenta uma visão integrada dos da
 
 ## 🖼️ Preview do Dashboard
 
-👉 [Acesse o Dashboard Interativo aqui](https://grupo44-pi-ads-senac-es6gvjnuzxfbdjsedl2ygi.streamlit.app)
-
 ![Dashboard](images/dashboard10.png)
 
-## 📝 Nota de Implementação (Arquitetura de Entrega)
+## 🔗 Dashboard Publicado
 
-Observação de Desenvolvimento:
-Devido às restrições de partilha pública externa da licença corporativa/estudantil do Power BI Service, optámos por uma solução robusta de engenharia de dados para viabilizar a visualização pública do projeto:
-
-Modelação e Layout: O dashboard executivo foi totalmente desenhado, modelado e finalizado no Power BI Desktop. O ficheiro original .pbix encontra-se guardado e disponível na pasta /dashboard/PI_Impacto_Preco_Combustiveis_2026.pbix.
-
-Publicação em Nuvem: Desenvolvemos uma aplicação complementar em Python (app.py) integrada com este repositório e realizámos o deploy no Streamlit Cloud para renderizar os KPIs principais e exibir a interface do painel de forma totalmente pública, interativa e acessível via web, cumprindo rigorosamente os critérios de publicação em nuvem exigidos na avaliação.
+Dashboard interativo no Microsoft Power BI Service: 👉 [Acesse o Dashboard Interativo no POWER BI Service](https://app.powerbi.com/links/NA5-0fiH-7?ctid=730c5727-f0cc-4531-8409-542b1f41151a&pbi_source=linkShare)
+Aplicação web complementar em Streamlit: 👉 [Acesse o Dashboard no Streamlit](https://grupo44-pi-ads-senac-es6gvjnuzxfbdjsedl2ygi.streamlit.app)
 
 ## 📌 Principais análises:
 - Comparação temporal
