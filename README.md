@@ -138,7 +138,6 @@ Publicação em Nuvem: Desenvolvemos uma aplicação complementar em Python (app
 - Análise geográfica
 - Variação percentual por país
   
-..............................
 ## 🔄 Processo ETL
 
 O processo de ETL (Extração, Transformação e Carga) foi estruturado para garantir a qualidade, consistência e confiabilidade dos dados utilizados na análise.
