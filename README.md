@@ -127,6 +127,15 @@ O dashboard foi desenvolvido no Power BI e apresenta uma visão integrada dos da
 Dashboard interativo no Microsoft Power BI Service: 👉 [Acesse o Dashboard Interativo no POWER BI Service](https://app.powerbi.com/links/NA5-0fiH-7?ctid=730c5727-f0cc-4531-8409-542b1f41151a&pbi_source=linkShare)
 Aplicação web complementar em Streamlit: 👉 [Acesse o Dashboard no Streamlit](https://grupo44-pi-ads-senac-es6gvjnuzxfbdjsedl2ygi.streamlit.app)
 
+
+## 🔗 Dashboard Publicado
+
+### Microsoft Power BI Service
+👉 [Acesse o Dashboard Interativo]((https://app.powerbi.com/links/NA5-0fiH-7?ctid=730c5727-f0cc-4531-8409-542b1f41151a&pbi_source=linkShare)
+
+### Aplicação Web em Streamlit
+👉 [Acesse o Dashboard no Streamlit](https://grupo44-pi-ads-senac-es6gvjnuzxfbdjsedl2ygi.streamlit.app)
+
 ## 📌 Principais análises:
 - Comparação temporal
 - Análise geográfica
