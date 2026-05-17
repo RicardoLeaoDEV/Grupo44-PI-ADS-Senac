@@ -64,35 +64,17 @@ Analisar como conflitos geopolíticos influenciam o mercado global de energia, i
 - **Versionamento:** Git e GitHub  
 
 ## **📁 Estrutura do Repositório**
+
+```text
+├── data/
+│   ├── raw/                  # Dados brutos coletados originalmente
+│   └── processed/            # Dados limpos e tratados (dados_tratados_final.xlsx, dados_oil_final.xlsx)
+├── notebooks/                # Scripts Python de Análise de Dados e ETL (analise_dados_preco.ipynb)
+├── dashboard/                # Arquivo oficial do Power BI (PI_Impacto_Preco_Combustiveis_2026.pbix)
+├── images/                   # Elementos visuais e capturas de tela (dashboard10.png)
+├── app.py                    # Script principal da aplicação Web no Streamlit Cloud
+└── README.md                 # Documentação principal do projeto
 ```
-/data
-  ├── raw          # Dados brutos
-  └── processed    # Dados tratados
-
-/notebooks         # Análises e ETL
-
-/dashboard         # Arquivos do Power BI
-
-/docs              # Documentação adicional
-
-README.md
-```
-...................
-2ª Etapa - Início
-
-📁 Estrutura do Projeto
-data/
-  dados_tratados_final.xlsx
-  dados_oil_final.xlsx
-
-notebook/
-  analise_dados_preco.ipynb
-
-dashboard/
-  PI_Impacto_Preco_Combustiveis_2026.pbix
-
-images/
-  dashboard10.png
 
 ## 📊 Etapa 2 – Análise e Visualização de Dados
 
