@@ -125,7 +125,7 @@ O dashboard foi desenvolvido no Power BI e apresenta uma visão integrada dos da
 ## 🔗 Dashboard Publicado
 
 ### Microsoft Power BI Service
-👉 [Acesse o Dashboard Interativo](https://app.powerbi.com/links/NA5-0fiH-7?ctid=730c5727-f0cc-4531-8409-542b1f41151a&pbi_source=linkShare)
+👉 [Acesse o Dashboard Interativo](https://app.powerbi.com/groups/me/reports/4da2c4cd-d9e5-4ad0-9100-386690edfee4/a60efa718b879d021269?experience=power-bi)
 
 ### Aplicação Web em Streamlit
 👉 [Acesse o Dashboard no Streamlit](https://grupo44-pi-ads-senac-es6gvjnuzxfbdjsedl2ygi.streamlit.app)
