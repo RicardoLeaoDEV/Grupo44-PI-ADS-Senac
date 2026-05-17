@@ -133,7 +133,7 @@ Modelação e Layout: O dashboard executivo foi totalmente desenhado, modelado e
 
 Publicação em Nuvem: Desenvolvemos uma aplicação complementar em Python (app.py) integrada com este repositório e realizámos o deploy no Streamlit Cloud para renderizar os KPIs principais e exibir a interface do painel de forma totalmente pública, interativa e acessível via web, cumprindo rigorosamente os critérios de publicação em nuvem exigidos na avaliação.
 
-##📌 Principais análises:
+## 📌 Principais análises:
 - Comparação temporal
 - Análise geográfica
 - Variação percentual por país
