@@ -124,7 +124,7 @@ O dashboard foi desenvolvido no Power BI e apresenta uma visão integrada dos da
 
 ![Dashboard](images/dashboard10.png)
 
-📝 Nota de Implementação (Arquitetura de Entrega)
+## 📝 Nota de Implementação (Arquitetura de Entrega)
 
 Observação de Desenvolvimento:
 Devido às restrições de partilha pública externa da licença corporativa/estudantil do Power BI Service, optámos por uma solução robusta de engenharia de dados para viabilizar a visualização pública do projeto:
@@ -133,12 +133,11 @@ Modelação e Layout: O dashboard executivo foi totalmente desenhado, modelado e
 
 Publicação em Nuvem: Desenvolvemos uma aplicação complementar em Python (app.py) integrada com este repositório e realizámos o deploy no Streamlit Cloud para renderizar os KPIs principais e exibir a interface do painel de forma totalmente pública, interativa e acessível via web, cumprindo rigorosamente os critérios de publicação em nuvem exigidos na avaliação.
 
-📌 Principais análises:
+##📌 Principais análises:
 - Comparação temporal
 - Análise geográfica
 - Variação percentual por país
-
- 2ª Etapa - Final
+  
 ..............................
 ## 🔄 Processo ETL
 
