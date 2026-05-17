@@ -76,9 +76,9 @@ Analisar como conflitos geopolíticos influenciam o mercado global de energia, i
 └── README.md                 # Documentação principal do projeto
 ```
 
-## 📊 Etapa 2 – Análise e Visualização de Dados
+## 📊 Análise e Visualização de Dados
 
-Nesta etapa, os dados tratados foram utilizados para a construção de um dashboard interativo no Power BI, com o objetivo de analisar os impactos do conflito geopolítico nos preços da gasolina.
+O relatório foi estruturado no Power BI para fornecer respostas rápidas e interativas aos decisores:
 
 ### 📈 Visualizações Desenvolvidas
 
@@ -110,6 +110,7 @@ Nesta etapa, os dados tratados foram utilizados para a construção de um dashbo
 - Jupyter Notebook
 - Power BI
 - Git e GitHub
+- streamlit
 
 ---
 
