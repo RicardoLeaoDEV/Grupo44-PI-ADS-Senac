@@ -197,20 +197,20 @@ Fornecer uma visão clara e interativa dos impactos do cenário geopolítico nos
 | Etapa         | Status         |
 |--------------|----------------|
 | Extração     | ✅ Concluído    |
-| Transformação| ⏳ Em andamento |
-| Carga        | ⏳ Em andamento |
+| Transformação| ✅ Concluído    |
+| Carga        | ✅ Concluído    |
 
 ## 📊 Status do Projeto
 
 | Etapa                       | Status         |
 |---------------------------|----------------|
-| Repositório               | ✅ Concluído    |
-| Base de dados             | ✅ Concluído    |
-| Limpeza                   | ⏳ Em andamento |
-| Análises                  | ⏳ Pendente     |
-| Visualizações             | ⏳ Pendente     |
-| Resultados                | ⏳ Pendente     |
-| Documentação final        | ⏳ Pendente     |
+| Repositório               | ✅ Concluído     |
+| Base de dados             | ✅ Concluído     |
+| Limpeza                   | ✅ Concluído     |
+| Análises                  | ✅ Concluído     |
+| Visualizações             | ✅ Concluído     |
+| Resultados                | ✅ Concluído     |
+| Documentação final        | ✅ Concluído     |
 
 ## 🗓️ Planejamento
 
