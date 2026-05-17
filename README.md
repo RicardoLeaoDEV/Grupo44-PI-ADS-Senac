@@ -247,7 +247,7 @@ Fornecer uma visão clara e interativa dos impactos do cenário geopolítico nos
 |----------------|---------------------------------------------|-------------------------------|
 | César Silveira | https://github.com/CesarSilveira-96         | cesarsilveira35@gmail.com     |
 | Allan Lima | https://github.com/slimaallan-ops           | slima.allan@gmail.com         |
-| Marcos         | https://github.com/usuario                  | marcosbahia2605@gmail.com     |
+| Marcos         | https://github.com/marcospaulofbahia                | marcosbahia2605@gmail.com     |
 | Paulo Mesquita | https://github.com/usuario                  | paulo_henrique.dm@hotmail.com |
 | Ricardo Leão   | https://github.com/RicardoLeaoDEV           | ricardoleao_1997@live.com     |
 ---
