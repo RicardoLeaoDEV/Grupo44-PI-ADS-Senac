@@ -42,5 +42,3 @@ else:
 
 st.write("---")
 st.markdown("**Projeto Integrador desenvolvido para o curso de Análise e Desenvolvimento de Sistemas (ADS).**")
-
-feat: adiciona arquivo app.py para deploy no Streamlit
