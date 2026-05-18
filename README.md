@@ -6,7 +6,7 @@ Projeto desenvolvido por alunos do curso de **Análise e Desenvolvimento de Sist
 
 ## 🔗 Repositório
 
-Acesse o projeto no GitHub:  👉 https://github.com/CesarSilveira-96/Grupo44-PI-ADS-Senac/tree/main
+Acesse o projeto no GitHub:  👉 [https://github.com/CesarSilveira-96/Grupo44-PI-ADS-Senac/tree/main](https://github.com/RicardoLeaoDEV/Grupo44-PI-ADS-Senac/blob/main/README.md)
 
 ## 📌 Descrição do Projeto
 
