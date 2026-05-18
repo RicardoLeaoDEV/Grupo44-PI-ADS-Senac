@@ -1,5 +1,4 @@
-## 📊 Projeto Integrador: Desenvolvimento Low Code em Ciência Dados.
-Grupo44 - Projeto de Análise de Dados
+## 📊 Grupo44 - Projeto de Análise de Dados
 
 Projeto desenvolvido por alunos do curso de **Análise e Desenvolvimento de Sistemas (SENAC EAD)**, como parte da disciplina:
 
